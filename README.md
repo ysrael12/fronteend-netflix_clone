@@ -2,10 +2,8 @@
 Nesse clone da netflix foi usado html e sass 
 
 <h1> quais os recursos utilizados? </h1>
-nesse projeto nao usei nenhum framework css e nem da linguagem javascript,  fiz todas as propiedades do website usando sass, 
-o sass me ajudou muito para fazer o carrossel ja que ele eh uma especie de linguagem de programaçao em forma de css , entao foi por isso
-que nao usei javascript .
-
+nesse projeto nao usei nenhum framework css mas usei linguagem javascript,  fiz todas as propiedades do website usando sass, 
+o sass me ajudou muito para fazer o carrossel ja que ele eh uma especie de linguagem de programaçao em forma de css.
 
 <h1> alguns detalhes do projeto </h1>
 
